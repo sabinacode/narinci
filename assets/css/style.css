@@ -1,0 +1,113 @@
+body {
+    display: flex;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+
+}
+
+.image {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+
+}
+
+header {
+    background-color: chocolate;
+    height: 100vh;
+    width: 17%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+main {
+    width: 83%;
+    height: 200vh;
+    margin-left: 17%;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: white;
+}
+
+.Ibishova_sabina_1 {
+    border: 1px solid brown;
+    height: 550px;
+    font-size: 20px;
+    color: rgb(113, 106, 106);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0px 0px 20px;
+
+}
+
+.span1 {
+    color: brown;
+}
+
+.span2 {
+    color: brown;
+}
+
+.span3 {
+    color: black;
+}
+
+.icons {
+    display: flex;
+    gap: 30px;
+    padding: 40px;
+    font-size: 50px;
+    color: black;
+}
+.experience_1 {
+    border: 1px solid brown;
+    height: 1200px;
+    font-size: 20px;
+    color: rgb(136, 133, 133);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0px 0px 20px;
+
+}
+h1{
+    color: black;
+    font-size: 80px;
+    margin-top: 110px;
+
+}
+h2{
+   color: black; 
+}
+.span4{
+    font-size: 25px;
+    display: flex;
+    
+}
+.time{
+    color: rgb(193, 95, 95);
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
